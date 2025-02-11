@@ -67,7 +67,7 @@ body {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 30px;
-  color: #fefdfc;
+  color:  #d8d8d8;
   text-align: center;
   text-transform: uppercase;
 }
@@ -560,7 +560,7 @@ a:focus {
 .footer_section {
   background-color: #252525;
   padding: 20px;
-  background-color: #7a772d;
+  background-color:  #667dc9;
 }
 
 .footer_section p {
